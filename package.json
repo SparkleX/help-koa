@@ -1,0 +1,30 @@
+{
+  "name": "help-koa",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node main"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SparkleX/help-koa.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SparkleX/help-koa/issues"
+  },
+  "homepage": "https://github.com/SparkleX/help-koa#readme",
+  "dependencies": {
+    "ejs": "^3.1.5",
+    "koa": "^2.13.0",
+    "koa-bodyparser": "^4.3.0",
+    "koa-convert": "^1.2.0",
+    "koa-csrf": "^3.0.8",
+    "koa-ejs": "^4.3.0",
+    "koa-generic-session": "^2.1.1",
+    "koa-mount": "^4.0.0",
+    "koa-views": "^6.3.0"
+  }
+}
